@@ -1,6 +1,6 @@
 ﻿<div align="center">
 
-## JohnaDX7 engine beta 1\.03 the new relaese of my 3d engine it deserves your attention
+## JohnaDX7 engine beta 1\.03 the new release of my 3d engine it deserves your attention
 
 <img src="PIC2002130913379181.jpg">
 </div>
